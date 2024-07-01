@@ -1,0 +1,47 @@
+body {
+    background-color: #141414;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+header h1 {
+    color: #e50914;
+}
+
+.perfis .card {
+    background-color: #141414;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.perfis .card-img-top {
+    border-radius: 10px;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.perfis .card-body {
+    padding: 0.5rem 1rem;
+}
+
+.perfis .card-title {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.perfis .card-title:hover {
+    text-decoration: underline;
+}
+
+.gerenciar button {
+    background-color: #e50914;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+}
+
+.gerenciar button:hover {
+    background-color: #f40612;
+}

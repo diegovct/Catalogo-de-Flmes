@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "email": "iuridias310@gmail.com",
+      "password": "Iuri1234",
+      "id": 1
+    },
+    {
+      "email": "iurididiu@gmail.com",
+      "password": "Iuri1234",
+      "id": 2
+    }
+  ],
+  "filmes": [
+    {
+      "nome": "Lucifer",
+      "synopsis": "Lucifer Morningstar (Tom Ellis), o famigerado Senhor do Inferno, se cansa da vida demoníaca que leva no subterrâneo e abandona seu trono para tirar férias em Los Angeles. ",
+      "imagem": "assets/img/lucifer.jpg"
+    },
+    {
+      "nome": "The Blacklist",
+      "synopsis": "Raymond Reddington, o criminoso mais procurado pelo FBI, entrega-se às autoridades. Promete entregar diversos criminosos e terroristas desde que por intermédio exclusivo de Elizabeth Keen, uma agente novata do FBI.",
+      "imagem": "http://localhost:3000/public/assets/img/the_blacklist.jpeg"
+    },
+    {
+      "nome": "Suits",
+      "synopsis": "O advogado corporativo de Manhattan Harvey Specter e sua equipe iniciam uma disputa pelo poder quando um novo sócio se junta à empresa.",
+      "imagem": "../assets/img/suits.webp"
+    },
+    {
+      "nome": "Arrow",
+      "synopsis": "A série segue Oliver Queen, um playboy bilionário de Starling City, que passa cinco anos naufragado em uma ilha misteriosa. Após seu retorno à Starling City, ele se reencontra com sua mãe, Moira Queen, sua irmã, Thea Queen, e seu melhor amigo, Tommy Merlyn.",
+      "imagem": "assets/img/arronmn.webp"
+    },
+    {
+      "nome": "Elementary",
+      "synopsis": "é uma adaptação de Robert Doherty para a obra de Arthur Conan Doyle, que traz os personagens Sherlock Holmes e Dr. Watson para o tempo presente, vivendo em Nova York.",
+      "imagem": "assets/img/elementary.jpg"
+    },
+    {
+      "nome": "Continuum",
+      "synopsis": "Um grupo de terroristas fanáticos escapa de sua execução no ano de 2077 e voltam no tempo até o ano de 2012.",
+      "imagem": "assets/img/Promo_Continuum_S2_01.webp"
+    },
+    {
+      "nome": "Ocean's Eleven",
+      "synopsis": "Danny Ocean é um homem de ação. Apenas 24 horas após deixar a penitenciária de Nova Jersey ele já está pondo em prática seu novo plano: assaltar três cassinos de Las Vegas em apenas uma noite, em meio à realização de uma luta que vale o título mundial dos pesos-pesados.",
+      "imagem": "assets/img/ocean.jpg"
+    },
+    {
+      "nome": "Brooklyn Nine-Nine",
+      "synopsis": "A série gira em torno de Jake Peralta (Andy Samberg), um imaturo, mas talentoso, detetive da polícia de Nova York na fictícia 99.ª Delegacia do Brooklyn",
+      "imagem": "assets/img/Brooklyn_Nine-Nine-4.jpg"
+    },
+    {
+      "nome": "Murder",
+      "synopsis": "O que há por trás de um assassinato? É em busca de respostas para as perguntas em aberto sobre um caso criminal que um grupo de investigadores ouve a história de cada testemunha, considerando todos os ângulos possíveis, a fim de desvendar o mistério.",
+      "imagem": "assets/img/morder.jfif"
+    },
+    {
+      "nome": "Dexter",
+      "synopsis": "Dexter Morgan é um educado lobo vestido em pele de ovelha. Ele é atraente e charmoso, mas algo em seu passado fez com que se transformasse numa pessoa diferente. ",
+      "imagem": "assets/img/DEXTER.jpg"
+    },
+    {
+      "nome": "Pretty Little Liars",
+      "synopsis": "A série segue a vida de cinco melhores amigas cuja amizade se desfez após o desaparecimento de sua líder Alison.",
+      "imagem": "assets/img/pll.jpg"
+    },
+    {
+      "nome": "Making a Murderer",
+      "synopsis": "Filmado durante 13 anos, esse suspense acompanha a história real de dois homens acusados de um crime terrível que talvez eles não tenham cometido.",
+      "imagem": "assets/img/making-a-murderer_tNone.webp"
+    },
+    {
+      "nome": "Forensic Files",
+      "synopsis": "Uma série que apresenta relatos detalhados sobre como crimes e doenças notáveis ​​foram resolvidos por meio da ciência forense.",
+      "imagem": "assets/img/FILES.jpg"
+    }
+  ]
+}
